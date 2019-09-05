@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update>
         <version>1.0.0.1</version> 
-        <url>https://github.com/thongtintrungdoan24/MyUploader/blob/master/Tee/UploadAnhTeesprings.exe</url> 
+        <url>https://raw.githubusercontent.com/thongtintrungdoan24/MyUploader/master/Tee/UploadAnhTeesprings.exe</url> 
         <filePath>./UploadAnhTeesprings.exe</filePath>
         <md5>69D9E32E62CB9C0C6D835618026204BD</md5>
         <description>Chạy thử nội dung cập nhật file
