@@ -1,0 +1,16 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update>
+        <version>1.0.0.1</version> 
+        <url>https://dntebg.by.files.1drv.com/y4mVgA6kxD14S-XLGp-1tQyCpl-yWD13hcOQdwtBCRYlKhuQbep1bto9Sl01e_Icu6MBEfAP1joHHRijc3OJXXa-vc0nHHjSXdpLPjkq_RbadomRO4fbElGp0vgrqlkOYXYsQT14RGxR-K_r0Sm24auoT2z-sIyy8gN3q-04HaxelG1LGsX6yytb4UlRHekyCNA/UploadAnhTeesprings.exe?download&psid=1</url> 
+        <filePath>./UploadAnhTeesprings.exe</filePath>
+        <md5>EF18D695FC4C18BF6E4CAF2CDFCFCA47</md5>
+        <description>Chạy thử nội dung cập nhật file
+            + Nội dung dòng tiếp
+            + Nội dung dòng tiếp
+            + Nội dung dòng tiếp
+            + Nội dung dòng tiếp
+        </description> 
+        <launchArgs></launchArgs> 
+    </update>
+</sharpUpdate>
